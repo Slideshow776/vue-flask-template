@@ -1,3 +1,0 @@
-flask
-flask-cors
-jsonrpcserver==3.5.6

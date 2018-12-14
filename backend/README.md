@@ -7,7 +7,7 @@ Install Python virtual environment: `$python -m venv venv`
 Remember to activate Python's local virtual environment: `$venv/Scripts/Activate.bat`
 #
 #### To Install:
-After activating Python's virtual environment: `$pip install -r requirements.txt`
+After activating Python's virtual environment: `$pip install -t lib -r requirements.txt`
 #
 #### To Run:  
 `$cd src`  
