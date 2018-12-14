@@ -1,7 +1,7 @@
 # Backend in Python
 
 #### Installation:
-Install Python virtual environment: `python -m venv venv`
+Install Python virtual environment: `$python -m venv venv`
 #
 #### Setup:
 Remember to activate Python's local virtual environment: `$venv/Scripts/Activate.bat`
