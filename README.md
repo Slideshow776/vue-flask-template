@@ -1,0 +1,1 @@
+# A simple vue/flask template with some basic functions implemented.
